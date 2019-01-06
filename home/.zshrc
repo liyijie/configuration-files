@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/liyijie/.oh-my-zsh
+export ZSH=/home/liyijie/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -95,7 +95,7 @@ source $ZSH/oh-my-zsh.sh
 
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
-[[ -s /Users/liyijie/.autojump/etc/profile.d/autojump.sh ]] && source /Users/liyijie/.autojump/etc/profile.d/autojump.sh
+[[ -s /home/liyijie/.autojump/etc/profile.d/autojump.sh ]] && source /home/liyijie/.autojump/etc/profile.d/autojump.sh
 
 autoload -U compinit && compinit
 
