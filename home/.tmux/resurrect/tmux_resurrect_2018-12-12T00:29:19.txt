@@ -1,0 +1,26 @@
+pane	0	0	:erp	1	:*	0	:/Users/liyijie/code/africa/travel-erp-api	0	vim	:vim .
+pane	0	0	:erp	1	:*	1	:/Users/liyijie/code/africa/travel-erp-api	0	ruby	:ruby /Users/liyijie/.rvm/gems/ruby-2.4.1/bin/rake swagger   
+pane	0	0	:erp	1	:*	2	:/Users/liyijie/code/africa/travel-erp-api	1	zsh	:
+pane	0	1	:garage	0	:-	0	:/Users/liyijie/code/business/garage-api	1	zsh	:
+pane	0	1	:garage	0	:-	1	:/Users/liyijie/code/business/garage-api	0	zsh	:
+pane	1	0	:innovation	1	:*	0	:/Users/liyijie/code/education/innovation_center_api	0	zsh	:
+pane	1	0	:innovation	1	:*	1	:/Users/liyijie/code/education/innovation_center_api	1	zsh	:
+pane	3	0	:travel	1	:*	0	:/Users/liyijie/code/africa/travel-erp-api	1	vim	:vim .
+pane	3	0	:travel	1	:*	1	:/Users/liyijie/code/africa/travel-erp-api	0	zsh	:
+pane	3	1	:travel	0	:-	0	:/Users/liyijie/code/africa/travel-api	1	vim	:vim .
+pane	3	1	:travel	0	:-	1	:/Users/liyijie/code/africa/travel-api	0	zsh	:
+pane	middle	0	:middle-manager	0	:-	0	:/Users/liyijie/code/middle_manager_evaluation	0	vim	:vim .
+pane	middle	0	:middle-manager	0	:-	1	:/Users/liyijie/code/middle_manager_evaluation	1	zsh	:
+pane	middle	1	:edu-api	1	:*	0	:/Users/liyijie/code/education/edu-api	0	zsh	:
+pane	middle	1	:edu-api	1	:*	1	:/Users/liyijie/code/education/edu-api	1	zsh	:
+pane	weather	0	:lightning	1	:*	0	:/Users/liyijie/code/weather/lightning-api	1	vim	:vim .
+pane	weather	0	:lightning	1	:*	1	:/Users/liyijie/code/weather/lightning-api	0	zsh	:
+window	0	0	1	:*	7e24,232x62,0,0[232x46,0,0,2,232x15,0,47{116x15,0,47,20,115x15,117,47,21}]
+window	0	1	0	:-	dd4d,232x62,0,0[232x41,0,0,3,232x20,0,42,4]
+window	1	0	1	:*	a9d3,232x62,0,0[232x46,0,0,5,232x15,0,47,6]
+window	3	0	1	:*	aedb,232x62,0,0[232x46,0,0,11,232x15,0,47,15]
+window	3	1	0	:-	2edd,232x62,0,0[232x46,0,0,13,232x15,0,47,14]
+window	middle	0	0	:-	aee1,232x62,0,0[232x46,0,0,16,232x15,0,47,17]
+window	middle	1	1	:*	12a1,232x62,0,0[232x41,0,0,18,232x20,0,42,22]
+window	weather	0	1	:*	dd57,232x62,0,0[232x41,0,0,7,232x20,0,42,8]
+state	middle	0

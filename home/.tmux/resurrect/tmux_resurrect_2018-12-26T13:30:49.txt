@@ -1,0 +1,65 @@
+pane	0	0	:vim	1	:*	0	:/Users/liyijie/code/tallty/simple_controller	1	vim	:vim .
+pane	0	0	:vim	1	:*	1	:/Users/liyijie/code/tallty/simple_controller	0	zsh	:
+pane	0	0	:vim	1	:*	2	:/Users/liyijie/code/github/inherited_resources	0	vim	:vim .
+pane	4	0	:vim	1	:*	0	:/Users/liyijie/code/weather/weather-api	1	vim	:vim .
+pane	5	0	:vim	1	:*	0	:/Users/liyijie/code/africa/travel-erp-api	1	vim	:vim .
+pane	6	0	:vim	1	:*	0	:/Users/liyijie/code/education/job-api	0	vim	:vim .
+pane	6	0	:vim	1	:*	1	:/Users/liyijie/Downloads	1	zsh	:
+pane	7	0	:party-api	1	:*	0	:/Users/liyijie/code/education/party-api	0	vim	:vim .
+pane	7	0	:party-api	1	:*	1	:/Users/liyijie/code/education/party-api	1	zsh	:
+pane	API	0	:paystar-api	0	:	0	:/Users/liyijie/code/africa/paystar-api	0	vim	:vim .
+pane	API	0	:paystar-api	0	:	1	:/Users/liyijie/code/africa/paystar-api	1	zsh	:
+pane	API	1	:africa-pay	0	:	0	:/Users/liyijie/code/africa/africa-pay-backend	0	vim	:vim .
+pane	API	1	:africa-pay	0	:	1	:/Users/liyijie/code/africa/africa-pay-backend	1	zsh	:
+pane	API	2	:edu-job	0	:	0	:/Users/liyijie/code/education/job-api	0	vim	:vim .
+pane	API	2	:edu-job	0	:	1	:/Users/liyijie/code/education/job-api	0	zsh	:
+pane	API	2	:edu-job	0	:	2	:/Users/liyijie/code/education/job-api	1	zsh	:
+pane	API	3	:erp	1	:*	0	:/Users/liyijie/code/africa/travel-erp-api	1	vim	:vim .
+pane	API	3	:erp	1	:*	1	:/Users/liyijie/code/africa/travel-erp-api	0	zsh	:
+pane	API	4	:travel-api	0	:	0	:/Users/liyijie/code/africa/travel-api	0	vim	:vim .
+pane	API	4	:travel-api	0	:	1	:/Users/liyijie/code/africa/travel-api	1	zsh	:
+pane	API	5	:zsh	0	:-	0	:/Users/liyijie/code/business/garage-api	1	vim	:vim .
+pane	API	5	:zsh	0	:-	1	:/Users/liyijie/code/business/garage-api	0	zsh	:
+pane	EDU	0	:edu-api	0	:	0	:/Users/liyijie/code/education/edu-api	0	vim	:vim .
+pane	EDU	0	:edu-api	0	:	1	:/Users/liyijie/code/education/edu-api	1	zsh	:
+pane	EDU	1	:stiei-api	0	:	0	:/Users/liyijie/code/education/stiei-api	0	vim	:vim .
+pane	EDU	1	:stiei-api	0	:	1	:/Users/liyijie/code/education/stiei-api	0	zsh	:
+pane	EDU	1	:stiei-api	0	:	2	:/Users/liyijie/code/education/stiei-api	1	zsh	:
+pane	EDU	2	:print-api	0	:	0	:/Users/liyijie/code/education/print-api	0	vim	:vim .
+pane	EDU	2	:print-api	0	:	1	:/Users/liyijie/code/education/print-api	1	zsh	:
+pane	EDU	3	:innovation	0	:-	0	:/Users/liyijie/code/education/innovation_center_api	0	vim	:vim .
+pane	EDU	3	:innovation	0	:-	1	:/Users/liyijie/code/education/innovation_center_api	1	zsh	:
+pane	EDU	4	:reserve	0	:	0	:/Users/liyijie/code/education/reserve-api	0	vim	:vim .
+pane	EDU	4	:reserve	0	:	1	:/Users/liyijie/code/education/reserve-api	1	zsh	:
+pane	EDU	5	:zsh	0	:	0	:/Users/liyijie/code/education/share-api	0	vim	:vim .
+pane	EDU	5	:zsh	0	:	1	:/Users/liyijie/code/education/share-api	1	zsh	:
+pane	EDU	6	:doctor	1	:*	0	:/Users/liyijie/code/education/doctor-api	1	ruby	:ruby /Users/liyijie/.rvm/gems/ruby-2.4.2/bin/rails new doctor-api -m ../tallty/rails-api-template/template.rb --api       
+pane	weather	0	:sh_weather	0	:	0	:/Users/liyijie/code/weather/sh_weather	0	vim	:vim .
+pane	weather	0	:sh_weather	0	:	1	:/Users/liyijie/code/weather/sh_weather	0	zsh	:
+pane	weather	0	:sh_weather	0	:	2	:/Users/liyijie/code/weather/sh_weather	1	zsh	:
+pane	weather	1	:lightning	0	:-	0	:/Users/liyijie/code/weather/lightning-api	0	vim	:vim .
+pane	weather	1	:lightning	0	:-	1	:/Users/liyijie/code/weather/lightning-api	1	zsh	:
+pane	weather	2	:vim	1	:*	0	:/Users/liyijie/code/education/meeting-api	0	vim	:vim .
+pane	weather	2	:vim	1	:*	1	:/Users/liyijie/code/education/meeting-api	1	zsh	:
+window	0	0	1	:*	8914,425x104,0,0[425x48,0,0,1,425x55,0,49{212x55,0,49,2,212x55,213,49,3}]
+window	4	0	1	:*	9421,425x104,0,0,4
+window	5	0	1	:*	9422,425x104,0,0,5
+window	6	0	1	:*	54ac,425x104,0,0[425x60,0,0,6,425x43,0,61,7]
+window	7	0	1	:*	f7de,425x104,0,0[425x67,0,0,8,425x36,0,68,41]
+window	API	0	0	:	739e,425x104,0,0[425x54,0,0,9,425x49,0,55,10]
+window	API	1	0	:	9187,425x104,0,0[425x60,0,0,11,425x43,0,61,12]
+window	API	2	0	:	32cc,425x104,0,0[425x54,0,0,13,425x49,0,55{212x49,0,55,14,212x49,213,55,15}]
+window	API	3	1	:*	118f,425x104,0,0[425x60,0,0,16,425x43,0,61,17]
+window	API	4	0	:	1192,425x104,0,0[425x60,0,0,18,425x43,0,61,19]
+window	API	5	0	:-	da46,425x104,0,0[425x70,0,0,20,425x33,0,71,21]
+window	EDU	0	0	:	d189,425x104,0,0[425x60,0,0,22,425x43,0,61,23]
+window	EDU	1	0	:	8fb1,425x104,0,0[425x60,0,0,24,425x43,0,61{212x43,0,61,25,212x43,213,61,26}]
+window	EDU	2	0	:	5191,425x104,0,0[425x60,0,0,27,425x43,0,61,28]
+window	EDU	3	0	:-	9a4f,425x104,0,0[425x70,0,0,29,425x33,0,71,30]
+window	EDU	4	0	:	1189,425x104,0,0[425x60,0,0,31,425x43,0,61,32]
+window	EDU	5	0	:	50cd,425x104,0,0[425x67,0,0,43,425x36,0,68,44]
+window	EDU	6	1	:*	ca45,425x104,0,0,45
+window	weather	0	0	:	5faf,425x104,0,0[425x60,0,0,33,425x43,0,61{212x43,0,61,34,212x43,213,61,35}]
+window	weather	1	0	:-	9090,425x104,0,0[425x60,0,0,36,425x43,0,61,37]
+window	weather	2	1	:*	9193,425x104,0,0[425x60,0,0,38,425x43,0,61,39]
+state	EDU	API

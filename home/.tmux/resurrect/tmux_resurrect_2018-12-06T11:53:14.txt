@@ -1,0 +1,59 @@
+pane	0	0	:zsh	1	:*	0	:/Users/liyijie/code/tallty/simple_controller	0	vim	:vim .
+pane	0	0	:zsh	1	:*	1	:/Users/liyijie/code/tallty/simple_controller	1	zsh	:
+pane	0	0	:zsh	1	:*	2	:/Users/liyijie/code/github/inherited_resources	0	vim	:vim .
+pane	4	0	:vim	1	:*	0	:/Users/liyijie/code/weather/weather-api	1	vim	:vim .
+pane	5	0	:vim	1	:*	0	:/Users/liyijie/code/africa/travel-erp-api	1	vim	:vim .
+pane	6	0	:vim	1	:*	0	:/Users/liyijie/code/education/job-api	0	vim	:vim .
+pane	6	0	:vim	1	:*	1	:/Users/liyijie/Downloads	1	zsh	:
+pane	7	0	:party-api	1	:*	0	:/Users/liyijie	1	zsh	:
+pane	API	0	:paystar-api	0	:	0	:/Users/liyijie/code/africa/paystar-api	0	vim	:vim .
+pane	API	0	:paystar-api	0	:	1	:/Users/liyijie/code/africa/paystar-api	1	zsh	:
+pane	API	1	:africa-pay	0	:	0	:/Users/liyijie/code/africa/africa-pay-backend	0	vim	:vim .
+pane	API	1	:africa-pay	0	:	1	:/Users/liyijie/code/africa/africa-pay-backend	1	zsh	:
+pane	API	2	:edu-job	0	:	0	:/Users/liyijie/code/education/job-api	0	vim	:vim .
+pane	API	2	:edu-job	0	:	1	:/Users/liyijie/code/education/job-api	0	zsh	:
+pane	API	2	:edu-job	0	:	2	:/Users/liyijie/code/education/job-api	1	zsh	:
+pane	API	3	:erp	1	:*	0	:/Users/liyijie/code/africa/travel-erp-api	1	vim	:vim .
+pane	API	3	:erp	1	:*	1	:/Users/liyijie/code/africa/travel-erp-api	0	zsh	:
+pane	API	4	:travel-api	0	:	0	:/Users/liyijie/code/africa/travel-api	1	vim	:vim .
+pane	API	4	:travel-api	0	:	1	:/Users/liyijie/code/africa/travel-api	0	zsh	:
+pane	API	5	:zsh	0	:-	0	:/Users/liyijie/code/business/garage-api	1	vim	:vim .
+pane	API	5	:zsh	0	:-	1	:/Users/liyijie/code/business/garage-api	0	zsh	:
+pane	EDU	0	:edu-api	1	:*	0	:/Users/liyijie/code/education/edu-api	1	vim	:vim .
+pane	EDU	0	:edu-api	1	:*	1	:/Users/liyijie/code/education/edu-api	0	zsh	:
+pane	EDU	1	:stiei-api	0	:	0	:/Users/liyijie/code/education/stiei-api	1	vim	:vim .
+pane	EDU	1	:stiei-api	0	:	1	:/Users/liyijie/code/education/stiei-api	0	zsh	:
+pane	EDU	1	:stiei-api	0	:	2	:/Users/liyijie/code/education/stiei-api	0	zsh	:
+pane	EDU	2	:print-api	0	:	0	:/Users/liyijie/code/education/print-api	0	vim	:vim .
+pane	EDU	2	:print-api	0	:	1	:/Users/liyijie/code/education/print-api	1	zsh	:
+pane	EDU	3	:innovation	0	:-	0	:/Users/liyijie/code/education/innovation_center_api	1	vim	:vim .
+pane	EDU	3	:innovation	0	:-	1	:/Users/liyijie/code/education/innovation_center_api	0	zsh	:
+pane	EDU	4	:reserve	0	:	0	:/Users/liyijie/code/education/reserve-api	0	vim	:vim .
+pane	EDU	4	:reserve	0	:	1	:/Users/liyijie/code/education/reserve-api	1	zsh	:
+pane	weather	0	:sh_weather	0	:	0	:/Users/liyijie/code/weather/sh_weather	0	vim	:vim .
+pane	weather	0	:sh_weather	0	:	1	:/Users/liyijie/code/weather/sh_weather	0	zsh	:
+pane	weather	0	:sh_weather	0	:	2	:/Users/liyijie/code/weather/sh_weather	1	zsh	:
+pane	weather	1	:lightning	0	:-	0	:/Users/liyijie/code/weather/lightning-api	0	vim	:vim .
+pane	weather	1	:lightning	0	:-	1	:/Users/liyijie/code/weather/lightning-api	1	zsh	:
+pane	weather	2	:vim	1	:*	0	:/Users/liyijie/code/education/meeting-api	1	vim	:vim .
+pane	weather	2	:vim	1	:*	1	:/Users/liyijie/code/education/meeting-api	0	zsh	:
+window	0	0	1	:*	8914,425x104,0,0[425x48,0,0,1,425x55,0,49{212x55,0,49,2,212x55,213,49,3}]
+window	4	0	1	:*	9421,425x104,0,0,4
+window	5	0	1	:*	9422,425x104,0,0,5
+window	6	0	1	:*	54ac,425x104,0,0[425x60,0,0,6,425x43,0,61,7]
+window	7	0	1	:*	ca41,425x104,0,0,41
+window	API	0	0	:	e6b1,425x104,0,0[425x54,0,0,8,425x49,0,55,9]
+window	API	1	0	:	4606,425x104,0,0[425x63,0,0,10,425x40,0,64,11]
+window	API	2	0	:	d2c7,425x104,0,0[425x54,0,0,12,425x49,0,55{212x49,0,55,13,212x49,213,55,14}]
+window	API	3	1	:*	edcd,425x104,0,0[425x65,0,0,15,425x38,0,66,16]
+window	API	4	0	:	edd0,425x104,0,0[425x65,0,0,17,425x38,0,66,18]
+window	API	5	0	:-	3f4f,425x104,0,0[425x66,0,0,19,425x37,0,67,20]
+window	EDU	0	1	:*	d0c8,425x104,0,0[425x67,0,0,21,425x36,0,68,22]
+window	EDU	1	0	:	2fad,425x104,0,0[425x60,0,0,23,425x43,0,61{212x43,0,61,24,212x43,213,61,25}]
+window	EDU	2	0	:	da4f,425x104,0,0[425x70,0,0,26,425x33,0,71,27]
+window	EDU	3	0	:-	2dd3,425x104,0,0[425x65,0,0,28,425x38,0,66,29]
+window	EDU	4	0	:	edc7,425x104,0,0[425x65,0,0,30,425x38,0,66,31]
+window	weather	0	0	:	ffaa,425x104,0,0[425x60,0,0,32,425x43,0,61{212x43,0,61,33,212x43,213,61,34}]
+window	weather	1	0	:-	118f,425x104,0,0[425x60,0,0,35,425x43,0,61,36]
+window	weather	2	1	:*	7490,425x104,0,0[425x62,0,0,39,425x41,0,63,40]
+state	7	
