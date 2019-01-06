@@ -7,6 +7,8 @@ set rtp+=~/.vim/bundle/Vundle.vim
 
 call vundle#begin()
 
+call plug#begin('~/.vim/plugged')
+
 " 使用Vundle管理插件，必须
  Plugin 'gmarik/Vundle.vim'
 
