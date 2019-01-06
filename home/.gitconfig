@@ -1,14 +1,26 @@
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  ui = true
 [user]
-        name = Don Petersen
-        email = don@donpetersen.net
+  name = liyijie
+  email = liyijie825@gmail.com
 [core]
-	excludesfile = ~/.gitignore_global
-[push]
-	default = simple
-[rebase]
-	instructionFormat = (%an <%ae>) %s
-
+  excludesfile = ~/.gitignore
+  editor = /usr/local/bin/vim
+[difftool "sourcetree"]
+  cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+  path = 
+[mergetool "sourcetree"]
+  cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+  trustExitCode = true
 [alias]
-lg1 = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
-[remote "origin"]
-	prune = true
+  lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  ci = commit -a -v
+  st = status
+  br = branch
+  co = checkout
+[http]
+[push]
+  default = simple
